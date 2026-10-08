@@ -28,6 +28,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 
 - **[Product Hunt](https://www.producthunt.com)** · DR 91 · dofollow · free — Schedule launch day.
 - **[BetaList](https://betalist.com)** · DR 67 · dofollow · free + paid tier — Pre-launch or recently-launched only.
+- **[Huzzler](https://huzzler.so)** · DR 66 · dofollow · free - Launch platform and startup directory for SaaS founders.
 - **[Peerlist Launchpad](https://peerlist.io)** · DR 64 · nofollow · free — Weekly launchpad (Wed-Sun).
 - **[TinyLaunch](https://www.tinylaunch.com)** · DR 55 · conditional dofollow · free + paid tier — Competitor.
 - **[PeerPush](https://peerpush.net)** · DR 50 · dofollow · free — GEO-friendly: optimizes for AI-readable structured data.
